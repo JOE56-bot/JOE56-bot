@@ -12,12 +12,11 @@ I'm passionate about bridging the gap between offensive and defensive security, 
 - 🌐 Contributor to several **open-source security projects** and **CTF challenges**.
 
 #### 📜 Certifications:
-- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/)
 - [CompTIA Network+](https://www.comptia.org/)
 - [CompTIA Security+](https://www.comptia.org/)
 - [Google Cyber Security Certificate](https://www.comptia.org/)
-- [OSCP (Offensive Security Certified Professional)](https://www.offensive-security.com/)
-
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.comptia.org/)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)](https://www.comptia.org/)
 
 ## 🚀 My Projects
 Here are the repositories where I showcase my work:
