@@ -26,7 +26,7 @@ Here are the repositories where I showcase my work:
 
 ### Software Development Projects
 - 💻 [Full-Stack Web Apps](https://github.com/your-username/Software-Development): Full-stack web apps built with React and Node.js.
--  🐍 [Python Projects](https://github.com/your-username/Software-Development): Python automation, web scraping.
+-  🐍 [Python Projects](https://github.com/JOE56-bot/Python-Projects.git): Python automation, web scraping.
 - 📱 [Mobile Applications](https://github.com/your-username/Software-Development): Mobile apps built with React Native and Flutter.
 - 🔧 [Algorithms and Coding Challenges](https://github.com/your-username/Software-Development): Solutions to common algorithms and data structure challenges.
 
