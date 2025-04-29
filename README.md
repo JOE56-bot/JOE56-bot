@@ -15,6 +15,13 @@ I'm passionate about bridging the gap between offensive and defensive security, 
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/)
 - [CompTIA Security+](https://www.comptia.org/)
 - [OSCP (Offensive Security Certified Professional)](https://www.offensive-security.com/)
+- Blue Team Level 1 (BTL 1)
+Certified CyberDefender (CCD)
+Cisco Certified CyberOps Associate
+CompTIA Network+ 
+CompTIA Security+
+CompTIA CySA+
+HTB Certified Defensive Security Analyst - (CDSA)
 
 ## 🚀 My Projects
 Here are the repositories where I showcase my work:
