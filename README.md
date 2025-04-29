@@ -13,21 +13,19 @@ I'm passionate about bridging the gap between offensive and defensive security, 
 
 #### 📜 Certifications:
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/)
+- [CompTIA Network+](https://www.comptia.org/)
 - [CompTIA Security+](https://www.comptia.org/)
+- [Google Cyber Security Certificate](https://www.comptia.org/)
 - [OSCP (Offensive Security Certified Professional)](https://www.offensive-security.com/)
-- Blue Team Level 1 (BTL 1)
-Certified CyberDefender (CCD)
-Cisco Certified CyberOps Associate
-CompTIA Network+ 
-CompTIA Security+
-CompTIA CySA+
-HTB Certified Defensive Security Analyst - (CDSA)
+
 
 ## 🚀 My Projects
 Here are the repositories where I showcase my work:
 
 ### Cybersecurity Projects
 - 🔐 [Vulnerability Scanners](https://github.com/your-username/Cybersecurity-Projects): Custom vulnerability scanning scripts.
+- 🔐 [Home Malware Analysis Lab](https://github.com/your-username/Cybersecurity-Projects): Designed and deployed a malware analysis lab using VirtualBox and Flare-VM on an isolated virtual machine.
+- 🔐 [Home SOC Lab Environment](https://github.com/your-username/Cybersecurity-Projects): Built a full SOC home lab replicating enterprise infrastructure using virtualization.
 - 🕵️‍♂️ [Pentesting Scripts](https://github.com/your-username/Cybersecurity-Projects): Scripts for penetration testing and ethical hacking.
 - 💻 [CTF Solutions](https://github.com/your-username/Cybersecurity-Projects): Write-ups and solutions for CTF challenges I’ve solved.
 
@@ -37,7 +35,7 @@ Here are the repositories where I showcase my work:
 - 📱 [Mobile Applications](https://github.com/your-username/Software-Development): Mobile apps built with React Native and Flutter.
 - 🔧 [Algorithms and Coding Challenges](https://github.com/your-username/Software-Development): Solutions to common algorithms and data structure challenges.
 
-- ⚡ Fun fact **When I'm not testing security, I'm learning about new vulnerabilities, bug hunting, or contributing to open-source security projects.**
+### ⚡ Fun fact **When I'm not testing security, I'm learning about new vulnerabilities, bug hunting, or contributing to open-source security projects.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-van-schalkwyk-288775266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanschalkwykjose64@gmail.com) 
