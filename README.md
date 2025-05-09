@@ -9,7 +9,7 @@ I'm passionate about bridging the gap between offensive and defensive security, 
 
 - 🔐 Proficient in penetration testing, vulnerability management, and incident response.
 - 💻 Hands-on experience with various security tools (Metasploit, Burp Suite, Wireshark, etc.).
-- 🌐 Contributor to several **open-source security projects** and **CTF challenges**. To see my other skills set I practice weekly on different platforms to hone my skills 🗃️ **Technical Training & Labs**.
+- 🌐 Contributor to several **open-source security projects** and **CTF challenges**. To see my other skills set I practice weekly on different platforms to hone my skills 🗃️ [Technical Training & Labs*](https://github.com/JOE56-bot/Python-Projects.git)
 
 #### 📜 Certifications:
 - [CompTIA Network+](https://www.comptia.org/)
