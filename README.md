@@ -35,7 +35,7 @@ Here are the repositories where I showcase my work:
 - 📱 [Mobile Applications](https://github.com/your-username/Software-Development): Mobile apps built with React Native and Flutter.
 - 🔧 [Algorithms and Coding Challenges](https://github.com/your-username/Software-Development): Solutions to common algorithms and data structure challenges.
 
-  ### AI: Artificial Intelligences (Full Stack) Projects 
+### AI: Artificial Intelligences (Full Stack) Projects 
 
 ### ⚡ Fun fact: When I'm not testing security, I'm learning about new vulnerabilities, bug hunting, or contributing to open-source security projects.**
 
