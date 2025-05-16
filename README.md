@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose van Schalkwyk</h1>
-<h3 align="center">Cyber Enthusiast (Purple Teamer) & AI Full Stack Software Developer</h3>
+<h3 align="center">Cyber Enthusiast (Purple Team Specialist) & AI Full Stack Software Developer</h3>
 
 
 # 💫 About Me:
-Welcome to my GitHub profile! I am passionate about **Cybersecurity** and **Software Development**, with a focus on creating secure applications and solving technical problems. Below you’ll find links to my repositories showcasing my skills and projects. ## About Me - 🔒 **Cybersecurity Enthusiast**: I am always learning and experimenting with different security tools, penetration testing techniques, and best practices to ensure safe digital spaces. - 💻 **Software Developer**: I build full-stack web and mobile applications using technologies like **React**, **Node.js**, **Python**, and **JavaScript**. - 🌱 Currently learning more about **cloud security**, **machine learning** in cybersecurity, and **DevSecOps**. 
+Welcome to my GitHub profile! I am passionate about **Cybersecurity** and **Software Development**, with a focus on creating secure applications and solving technical problems. Below you’ll find links to my repositories showcasing my skills and projects. ## About Me - 🔒 **Cybersecurity Enthusiast**: I am always learning and experimenting with different security tools, penetration testing techniques, and best practices to ensure safe digital spaces. - 💻 **Software Developer**: I build MERN full-stack web and mobile applications using technologies like **React**, **Node.js**, **Python**, and **JavaScript**. - 🌱 Currently learning more about **cloud security**, **machine learning** in cybersecurity, and **DevSecOps**. 
 
 I'm passionate about bridging the gap between offensive and defensive security, helping organizations to **proactively defend** while also **identifying and mitigating risks**. As a **Purple Teamer**, I aim to strengthen security by using both **Red Team** (offensive) and **Blue Team** (defensive) methodologies.
 
