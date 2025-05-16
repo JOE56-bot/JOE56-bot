@@ -29,7 +29,7 @@ Here are the repositories where I showcase my work:
 - 💻 [CTF Solutions](https://github.com/your-username/Cybersecurity-Projects): Write-ups and solutions for CTF challenges I’ve solved.
 
 ### Software Development Projects
-- 💻 [(MERN) Full-Stack Web Apps](https://github.com/your-username/Software-Development): MERN Full-stack web apps built with all frameworks such React and Node.js.
+- 💻 [(MERN) Full-Stack Web Apps](https://github.com/JOE56-bot/MERN-Full-Stack-Development-Projects-.git): MERN Full-stack web apps built with all frameworks such React and Node.js.
 - 🖥️ [Frontend Dev Projects](https://github.com/JOE56-bot/HTML-CSS-JavaScript-projects-.git): Frontend web apps built with HTML,CSS and JavaScript.
 -  🐍 [Python Projects](https://github.com/JOE56-bot/Python-Projects.git): Python automation, web scraping.
 - 📱 [Mobile Applications](https://github.com/your-username/Software-Development): Mobile apps built with React Native and Flutter.
