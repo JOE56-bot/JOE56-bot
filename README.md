@@ -37,7 +37,7 @@ Here are the repositories where I showcase my work:
 
 ### AI: Artificial Intelligences (Full Stack) Projects 
 
-### ⚡ Fun fact: When I'm not testing security, I'm learning about new vulnerabilities, bug hunting, or contributing to open-source security projects.**
+### ⚡ Fun fact: When I'm not testing security, I'm learning about new vulnerabilities, bug hunting, or contributing to open-source security projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jose-van-schalkwyk-288775266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanschalkwykjose64@gmail.com) 
