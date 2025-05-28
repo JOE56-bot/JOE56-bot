@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I am passionate about **Cybersecurity** and **Soft
 
 I'm passionate about bridging the gap between offensive and defensive security, helping organizations to **proactively defend** while also **identifying and mitigating risks**. As a **Purple Teamer**, I aim to strengthen security by using both **Red Team** (offensive) and **Blue Team** (defensive) methodologies.
 
+## 🛠️ Technical Skills
 - 🔐 Proficient in penetration testing, vulnerability management, and incident response.
 - 💻 Hands-on experience with various security tools (Metasploit, Burp Suite, Wireshark, etc.).
 - 🌐 Contributor to several **open-source security projects** and **CTF challenges**.
