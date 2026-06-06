@@ -19,7 +19,7 @@
 
 # 👤 OPERATOR IDENTITY
 
-**Name:** Jose van Schalkwyk  
+**Name:** Jose   
 **Classification:** Security Operations Analyst (Aspiring Purple Team Engineer)  
 **Primary Domain:** Detection Engineering • Threat Hunting • DFIR  
 **Secondary Domain:** ⚔️Adversary Emulation • Red Teaming • Cloud Security • Identity Security 
