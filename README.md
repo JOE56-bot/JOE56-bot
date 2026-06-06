@@ -132,7 +132,7 @@ Detection Coverage ████████████░░░░░░░ 70%
 Here are the repositories where I showcase my work: 
 
 ### Cybersecurity Projects
-- 🔐 [Windows Attack Telemetry Research Lab]([[https://github.com/JOE56-bot/Windows-Telemetry-Research-Lab.git)](): Built a controlled Windows environment for generating, capturing, and analyzing attack telemetry. Focused on mapping attacker behavior to logs, improving detection engineering skills, and developing threat hunting hypotheses using real system activity. (This Project is still underdevelopment and will be provided soon!)
+- 🔐 [Windows Attack Telemetry Research Lab](https://github.com/your-username/Cybersecurity-Projects):Built a controlled Windows environment for generating, capturing, and analyzing attack telemetry. Focused on mapping attacker behavior to logs, improving detection engineering skills, and developing threat hunting hypotheses using real system activity. (This Project is still underdevelopment and will be provided soon!)
 
 ---
 
