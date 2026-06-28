@@ -1,21 +1,29 @@
 
-<img width="853" height="1844" alt="b7219e75-312d-4f0f-b27b-d0f3d01aec62" src="https://github.com/user-attachments/assets/0a2ce3dc-be3f-4fd3-9f6f-cd1c0139d180" />
+<table>
+<tr>
 
-<div align="centre">
+<td width="80%" valign="top">
 
+<img src="https://github.com/user-attachments/assets/0a2ce3dc-be3f-4fd3-9f6f-cd1c0139d180" width="100%" alt="SOC Banner">
+
+</td>
+
+<td width="80%" valign="top">
+
+```text
 ███████╗██╗ ██╗██████╗ ██╗ ██╗ ██╗███████╗███████╗
 ██╔════╝██║ ██║██╔══██╗██║ ██║ ██║██╔════╝██╔════╝
 █████╗ ██║ ██║██████╔╝██║ ██║ ██║█████╗ ███████╗
 ██╔══╝ ██║ ██║██╔═══╝ ██║ ██║ ██║██╔══╝ ╚════██║
 ██║ ╚██████╔╝██║ ███████╗███████╗██║███████╗███████║
-╚═╝ ╚═════╝ ╚═╝ ╚══════╝╚══════╝╚═╝╚══════╝╚══════╝
+╚═╝ ╚═════╝ ╚═╝ ╚══════╝╚══════╝╚═╝╚══════╝╚══════╝╝
+```
 
+### 🧠 SECURITY OPERATIONS CENTER // PERSONAL PROFILE LOADED
 
-### 🧠 SECURITY OPERATIONS CENTER // PERSONAL PROFILE LOADED  
-### MODE: PURPLE TEAM • DETECTION ENGINEERING • THREAT HUNTING  
-### STATUS: ACTIVE OPERATIONS
+**MODE:** PURPLE TEAM • DETECTION ENGINEERING • THREAT HUNTING
 
-</div>
+**STATUS:** ACTIVE OPERATIONS
 
 ---
 
@@ -31,6 +39,9 @@
 ---
 
 # 📡 LIVE SECURITY POSTURE
+
+```text
+# 📡 LIVE SECURITY POSTURE
 [✔] Detection Engineering → ACTIVE DEVELOPMENT
 [✔] Threat Hunting → ACTIVE OPERATIONS
 [✔] DFIR → ACTIVE INVESTIGATIONS
@@ -38,6 +49,12 @@
 [✔] Adversary Emulation → SIMULATION PHASE
 [✔] Cloud Security → EXPANDING COVERAGE
 [✔] Identity Security (AD) → CORE FOCUS
+```
+
+</td>
+
+</tr>
+</table>
 
 
 ---
