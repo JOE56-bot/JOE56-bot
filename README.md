@@ -159,11 +159,11 @@ Here are the repositories where I showcase my work:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOE56-bot&theme=dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JOE56-bot&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JOE56-bot&theme=dark)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JOE56-bot&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOE56-bot&layout=compact&theme=dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOE56-bot&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
