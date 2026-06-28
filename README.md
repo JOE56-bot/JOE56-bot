@@ -167,11 +167,6 @@ You stop them by understanding them before they happen.”
 
 # 🔻 END OF TRANSMISSION
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JOE56-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JOE56-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOE56-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JOE56-bot&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
