@@ -153,6 +153,9 @@ Here are the repositories where I showcase my work:
 ### Cybersecurity Projects
 - 🔐 [Windows Attack Telemetry Research Lab](https://github.com/JOE56-bot/Windows-Telemetry-Research-Lab) : Built a controlled Windows environment for generating, capturing, and analyzing attack telemetry. Focused on mapping attacker behavior to logs, improving detection engineering skills, and developing threat hunting hypotheses using real system activity.
 
+- ☁️ [Cloud Threat Detection Lab](https://github.com/JOE56-bot/Windows-Telemetry-Research-Lab):
+Designed and built a cloud-based Detection Engineering lab using Microsoft Sentinel, Azure Monitor, Azure Log Analytics, Microsoft Entra ID, and Kusto Query Language (KQL). The project focuses on collecting and analyzing cloud telemetry, developing custom detection rules, performing threat hunting investigations, and mapping detections to the MITRE ATT&CK framework. The lab demonstrates practical cloud security operations, incident investigation, and Detection Engineering workflows within the Microsoft security ecosystem (this project is still underdevelopment and will be provided soon!)
+
 ---
 
 # 📡 SYSTEM TELEMETRY (GITHUB STATS)
