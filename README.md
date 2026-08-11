@@ -126,12 +126,19 @@
 
 
 Reconnaissance ██████████░░░░░░░░░ 55%
+
 Initial Access ███████████░░░░░░░░ 60%
+
 Execution ████████████░░░░░░░ 65%
+
 Persistence ███████████░░░░░░░░ 60%
+
 Privilege Escalation ██████████░░░░░░░░░ 55%
+
 Lateral Movement ██████████░░░░░░░░░ 55%
+
 Exfiltration █████████░░░░░░░░░░ 50%
+
 Detection Coverage ████████████░░░░░░░ 70%
 
 
