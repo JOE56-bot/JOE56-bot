@@ -163,7 +163,7 @@ Here are the repositories where I showcase my work:
 |---|---|---|
 | 🪟 [**Windows Attack Telemetry Lab**](https://github.com/JOE56-bot/Windows-Telemetry-Research-Lab) | Detection Engineering | Windows telemetry research and attack detection |
 | ☁️ [**Cloud Threat Detection Lab**](https://github.com/JOE56-bot/Cloud-Threat-Detection-Lab-.git) | Cloud Security | Cloud attack simulation and threat detection |
-| ⚙️ [**Detection as Code Pipeline**](LINK) | Detection Engineering | Automated detection development, testing and CI/CD |
+| ⚙️ [**Detection as Code Pipeline**](https://github.com/JOE56-bot/Detection-as-Code-pipeline.git) | Detection Engineering | Automated detection development, testing and CI/CD |
 
 ---
 
